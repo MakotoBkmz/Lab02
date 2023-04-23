@@ -1,4 +1,4 @@
-x = int(input())
+x = int(input('Input 4 digit number: ' ))
 
 n1 = x //1000
 

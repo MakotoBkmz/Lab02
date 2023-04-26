@@ -9,4 +9,4 @@ n4 = z // 100
 n5 = z // 10 % 10
 n6 = z % 10
 
-print(n6,n5,n4,n3,n2,n1)
+print(n6, n5, n4, n3, n2, n1, sep='')
